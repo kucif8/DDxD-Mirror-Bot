@@ -44,7 +44,7 @@ def stats(update, context):
 def start(update, context):
     start_string = f'''
 A Mirror bot🤖 which can mirror almost all your links to Google drive.
-🧑‍💻 Build by <b>@DebNationXD</b>.'''
+🧑‍💻 Build by <b>MOdeL</b>.'''
     sendMessage(start_string, context.bot, update)
  
  
